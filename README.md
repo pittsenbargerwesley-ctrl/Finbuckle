@@ -39,14 +39,14 @@ Table of Contents
 
 ### Bug Fixes
 
-* Bump the microsoft-packages group with 15 updates ([#1115](https://github.com/Finbuckle/Finbuckle.MultiTenant/issues/1115)) ([02a2415](https://github.com/Finbuckle/Finbuckle.MultiTenant/commit/02a2415728b702ffd1bff3bd81942605a92f7b04))
+* Bump the microsoft-packages group with 15 updates ([#1115](https://github.com/Finbuckle/Finbuckle/issues/1115)) ([02a2415](https://github.com/Finbuckle/Finbuckle/commit/02a2415728b702ffd1bff3bd81942605a92f7b04))
 <!--_release-notes-->
 
 ## Open Source Support
 
 Your support helps keep the project going and is greatly appreciated!
 
-Finbuckle.MultiTenant is primarily supported by its [GitHub sponsors](https://github.com/sponsors/Finbuckle) and [contributors](https://github.com/Finbuckle/Finbuckle.MultiTenant/graphs/contributors).  
+Finbuckle is primarily supported by its [GitHub sponsors](https://github.com/sponsors/Finbuckle) and [contributors](https://github.com/Finbuckle/Finbuckle/graphs/contributors).  
 
 Additional support is provided by the following organizations:
 
@@ -79,12 +79,12 @@ the [documentation](https://www.finbuckle.com/multitenant/docs) for more details
 
 ## Sample Projects
 
-A variety of [sample projects](https://github.com/Finbuckle/Finbuckle.MultiTenant/tree/main/samples) are available in
+A variety of [sample projects](https://github.com/Finbuckle/Finbuckle/tree/main/samples) are available in
 the repository.
 
 ## Build and Test Status
 
-![Build and Test Status](https://github.com/Finbuckle/Finbuckle.MultiTenant/actions/workflows/ci.yml/badge.svg)
+![Build and Test Status](https://github.com/Finbuckle/Finbuckle/actions/workflows/ci.yml/badge.svg)
 
 ## License
 
@@ -103,7 +103,7 @@ or the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 ## Community
 
-Check out the [GitHub repository](https://github.com/Finbuckle/Finbuckle.MultiTenant) to ask a question, make a request,
+Check out the [GitHub repository](https://github.com/Finbuckle/Finbuckle) to ask a question, make a request,
 or peruse the code!
 
 ## Building from Source
@@ -111,11 +111,11 @@ or peruse the code!
 From the command line clone the git repository, `cd` into the new directory, and compile with `dotnet build`.
 
 ```bash
-git clone https://github.com/Finbuckle/Finbuckle.MultiTenant.git
-cd Finbuckle.MultiTenant
-cd Finbuckle.MultiTenant
-dotnet build
-```
+git clone https://github.com/Finbuckle/Finbuckle.git
+cd Finbuckle
+cd Finbuckle
+dotnet build`
+````
 
 ## Running Unit Tests
 
